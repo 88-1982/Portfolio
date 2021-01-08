@@ -1,6 +1,6 @@
 # DeAunte Hall
 
-# Profolio 
+# Portfolio 
 
 ## description of project 
  
