@@ -2,7 +2,7 @@
 
 # Portfolio 
 
-## description of project 
+## Description of project 
  
  
  This portfolio will explain a bit about me and what I have learn at **Epicodus** over the last week.
