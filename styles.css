@@ -3,5 +3,6 @@ img {
 }
 
 body {
-  background-color: coral;
+  background-color: rgb(12, 11, 10);
+  padding: 50px;
 }
