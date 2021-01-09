@@ -1,7 +1,10 @@
-img {
-  float: right;
-  margin-top: auto; 
-  
+.background {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
   
 }
 
