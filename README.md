@@ -1,39 +1,37 @@
-# DeAunte Hall
+# Portfolio
 
-# Portfolio 
+#### Student Portfolio
 
-## Description of project 
- 
- 
- This portfolio will explain a bit about me and what I have learn at **Epicodus** over the last week.
- 
- 
-  -Also a bit about my work history before **Epicodus**.
-  
-  
-  -Tools used to make webpages
-  
-  
-  ## Technology Used
-  
-  
-  1. HTML
-  
-  2. Styles.css
- 
-  3. GitHub
-  
-  4. Boot Strap
-  
-  ## License
-  
-MIT License
+#### By DeAunte Hall
 
-Copyright (c) [2021] [DeAunte Hall]
+## Technologies Used
+
+* HTML
+* CSS
+* Bootstrap
 
 
-## Contact information 
+## Description
 
-http://www.88-1982@github.com 
+This is a project portfolio that will showcase what I have learned at Epicodus
+and also about me.
 
-godsofolympus88@gmail.com
+## Setup/Installation Requirements
+
+* _ Clone this repository to your desktop. 
+* _ Navigate to the top level of the directory.
+* _ Open in your browser
+
+
+## Known Bugs
+
+No known bugs.
+
+## License
+	MIT
+Copyright (c) 2021 DeAunte Hall
+
+## Contact Information
+	http://www.88-1982@github.com
+	godsofolympus88@gmail.com	
+
