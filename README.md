@@ -28,10 +28,10 @@ and also about me.
 No known bugs.
 
 ## License
-	MIT
+MIT
 Copyright (c) 2021 DeAunte Hall
 
 ## Contact Information
-	https://github.com/88-1982
-	godsofolympus88@gmail.com	
+https://github.com/88-1982
+godsofolympus88@gmail.com	
 
