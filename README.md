@@ -32,6 +32,6 @@ No known bugs.
 Copyright (c) 2021 DeAunte Hall
 
 ## Contact Information
-	http://www.88-1982@github.com
+	https://github.com/88-1982
 	godsofolympus88@gmail.com	
 
