@@ -1,5 +1,7 @@
 img {
-  float: left;
+  float: right;
+  
+
 }
 
 body {
@@ -8,9 +10,9 @@ body {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 60px;
   margin-left: 10px;
-  margin-right: auto;
+  margin-right: 10px;
 }
 
 .card-container {
@@ -19,6 +21,6 @@ h1 {
 }
 
 img {
-  float: left;
-  margin-right: auto;
+  float: right;
+  margin-right: 20px;
 }
