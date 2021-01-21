@@ -32,6 +32,6 @@ MIT
 Copyright (c) 2021 DeAunte Hall
 
 ## Contact Information
-https://github.com/88-1982
+88-1982.github.io/Portfolio
 godsofolympus88@gmail.com	
 
